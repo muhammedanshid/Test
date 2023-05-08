@@ -12,4 +12,4 @@ print("hello");
 }
 ```
 [mohammedroshankr](https://www.github.com/mohammedroshankr)
- 	![alt text](image.jpg)
+ 	![alt text](img.jpg)
