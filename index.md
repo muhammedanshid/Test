@@ -8,5 +8,5 @@
 
 int main()
 {
-print("hello")
+print("hello");
 }
