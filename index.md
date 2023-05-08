@@ -10,8 +10,3 @@ int main()
 {
 print("hello");
 }
-```
-gwgwgwggjjgg
-eeklhehe
-{
-}
